@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Email-elahase23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elahase23@gmail.com)
 
-**Diplômé en Sécurité Informatique | Data Protection Officer | Développeur Sécurité | Administration Systèmes & Réseaux**
+Diplômé en Sécurité Informatique | Data Protection Officer | Développeur Sécurité | Administration Systèmes & Réseaux
 
 ---
 
@@ -26,13 +26,13 @@ Système de Détection Anti-Smishing / Anti-Phishing -
 Plateforme complète de lutte contre la cybercriminalité mobile
 - Fonctionnalités : Soumission de SMS/liens suspects, détection phishing/smishing/vishing, tableau de bord admin, forum de sensibilisation
 - Stack : Django/Flask + MySQL
-- [Code du projet] |  [Live Demo] | [Documentation]
+- [Code du projet] | [Documentation]
 
 [Système de Détection de Doublons Électoraux - CENI
 Plateforme complète de lutte contre la cybercriminalité mobile
 - Fonctionnalités : Authentification,Gestion des Électeurs,Détection de Doublons,Gestion des Doublons,Tableau de Bord
 - Stack : PHP + MySQL
-- [Code du projet] |  [Live Demo] | [Documentation]
+- [Code du projet] | [Documentation]
 
 ---
 
