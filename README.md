@@ -12,7 +12,7 @@
 
 Diplômé de l'**Université Protestante au Congo** en Sécurité Informatique, je suis passionné par la protection des données, l'administration des systèmes et la sécurisation des infrastructures. Rigoureux, curieux et toujours en veille technologique, je combine développement logiciel et expertise sécurité pour créer des solutions robustes et sécurisées.
 
-** Domaines d'expertise :**
+**Domaines d'expertise :**
 - Sécurité des systèmes et réseaux
 - Protection des données (RGPD/DPO)
 - Administration Windows & Linux
@@ -24,7 +24,7 @@ Diplômé de l'**Université Protestante au Congo** en Sécurité Informatique, 
 
 ##  Mes Projets
 
-[Système de Détection Anti-Smishing / Anti-Phishing]
+Système de Détection Anti-Smishing / Anti-Phishing
 Plateforme complète de lutte contre la cybercriminalité mobile
 - Fonctionnalités : Soumission de SMS/liens suspects, détection phishing/smishing/vishing, tableau de bord admin, forum de sensibilisation
 - Stack : Django/Flask + MySQL
@@ -70,7 +70,7 @@ Plateforme complète de lutte contre la cybercriminalité mobile
 
 ##  Parcours Académique
 
-- **Licence en Sécurité Informatique** - Université Protestante au Congo (2022-2023)
+- **Licence en Sécurité Informatique** - Université Protestante au Congo (2020-2025)
 - **Formation en Droit Numérique** - Rudi International (Novembre 2025)
 
 ---
