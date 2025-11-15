@@ -8,11 +8,11 @@
 
 ---
 
-## 🚀 À Propos de Moi
+##  À Propos de Moi
 
 Diplômé de l'**Université Protestante au Congo** en Sécurité Informatique, je suis passionné par la protection des données, l'administration des systèmes et la sécurisation des infrastructures. Rigoureux, curieux et toujours en veille technologique, je combine développement logiciel et expertise sécurité pour créer des solutions robustes et sécurisées.
 
-**🔐 Domaines d'expertise :**
+** Domaines d'expertise :**
 - Sécurité des systèmes et réseaux
 - Protection des données (RGPD/DPO)
 - Administration Windows & Linux
@@ -22,7 +22,7 @@ Diplômé de l'**Université Protestante au Congo** en Sécurité Informatique, 
 
 ---
 
-## 💼 Mes Projets
+##  Mes Projets
 
 ### 🔒 [Analyse de Vulnérabilités Réseau]
 *Mise en place d'un système de détection d'intrusions et analyse des vulnérabilités sur un réseau local*
@@ -56,15 +56,15 @@ Diplômé de l'**Université Protestante au Congo** en Sécurité Informatique, 
 
 ---
 
-## 💻 Développeur
+##  Développeur
 
-### 🐍 **Python**
+###  **Python**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - Développement d'outils de sécurité
 - Automatisation de tâches système
 - Scripts d'audit et de monitoring
 
-### 🌐 **Web Development**
+###  **Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -72,13 +72,13 @@ Diplômé de l'**Université Protestante au Congo** en Sécurité Informatique, 
 - Interfaces utilisateur pour outils sécurité
 - Sites web éducatifs
 
-### 🐚 **Scripting & Automatisation**
+###  **Scripting & Automatisation**
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 - Scripts d'administration système
 - Automatisation de tâches de sécurité
 - Outils de monitoring réseau
 
-### 🔧 **Outils de Développement**
+###  **Outils de Développement**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-4D4D4D?style=flat&logo=linux&logoColor=white)
@@ -86,25 +86,25 @@ Diplômé de l'**Université Protestante au Congo** en Sécurité Informatique, 
 ---
 
 
-## 📈 Parcours Académique
+##  Parcours Académique
 
-- **🎓 Licence en Sécurité Informatique** - Université Protestante au Congo (2022-2023)
-- **⚖️ Formation en Droit Numérique** - Rudi International (Novembre 2025)
-
----
-
-## 🌟 Centres d'Intérêt
-
-- 🔐 **Veille en sécurité informatique**
-- 🤖 **Nouvelles technologies et innovations**
-- 📚 **Documentation et formation continue**
-- 🎯 **Sensibilisation à la protection des données**
-- 💻 **Développement d'outils sécurité**
-- 🔧 **Automatisation et scripting**
+- ** Licence en Sécurité Informatique** - Université Protestante au Congo (2022-2023)
+- ** Formation en Droit Numérique** - Rudi International (Novembre 2025)
 
 ---
 
-## 📞 Contact
+##  Centres d'Intérêt
+
+-  **Veille en sécurité informatique**
+-  **Nouvelles technologies et innovations**
+-  **Documentation et formation continue**
+-  **Sensibilisation à la protection des données**
+-  **Développement d'outils sécurité**
+-  **Automatisation et scripting**
+
+---
+
+##  Contact
 
 N'hésitez pas à me contacter pour discuter de sécurité informatique, développement sécurisé, protection des données ou opportunités de collaboration !
 
