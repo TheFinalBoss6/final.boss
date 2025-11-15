@@ -1,4 +1,4 @@
-# Emmanuel Lohase | Cybersecurity Specialist & Developer
+# Cybersecurity Specialist & Developer
 
 [![Email](https://img.shields.io/badge/Email-elahase23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elahase23@gmail.com)
 
