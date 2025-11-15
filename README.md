@@ -1,8 +1,6 @@
 # 👨‍💻 Emmanuel Lohase | Cybersecurity Specialist & Developer
 
 [![Email](https://img.shields.io/badge/Email-elahase23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elahase23@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-0858691778-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+243858691778)
-[![Location](https://img.shields.io/badge/Location-Kinshasa,_RDC-0077B5?style=flat&logo=location&logoColor=white)](https://www.google.com/maps/place/Kinshasa)
 
 **Diplômé en Sécurité Informatique | Data Protection Officer | Développeur Sécurité | Administration Systèmes & Réseaux**
 
